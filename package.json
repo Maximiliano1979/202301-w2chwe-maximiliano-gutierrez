@@ -2,7 +2,8 @@
   "name": "202301-w2chwe-maximiliano-gutierrez",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app/index.js",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "test:dev": "jest --watchAll",
