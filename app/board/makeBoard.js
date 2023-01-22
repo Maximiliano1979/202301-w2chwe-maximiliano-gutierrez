@@ -13,6 +13,4 @@ const makeBoard = (rows, columns) => {
   return board;
 };
 
-console.table(makeBoard(10, 10));
-
 export default makeBoard;
